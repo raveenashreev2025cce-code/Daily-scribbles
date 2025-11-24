@@ -1,0 +1,2 @@
+# Daily-scribbles
+blogging website
